@@ -1,0 +1,3 @@
+brew install nvm
+source $(brew --prefix nvm)/nvm.sh
+nvm alias default 18  
